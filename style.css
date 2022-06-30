@@ -1,0 +1,19 @@
+body {
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+button {
+    font-size: 30px;
+    padding: .75em 1em;
+    border-radius: 16px;
+    border-style: none;
+}
